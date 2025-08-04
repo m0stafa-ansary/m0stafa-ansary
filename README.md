@@ -10,7 +10,7 @@
   
 
 - I'm a Software Engineer.
-
+- I'm a bug bounty hunter.
 
 ### Connect with Me :
 
