@@ -14,8 +14,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mostafa-ansary-28a832288" target="_blank">Linkedin</a>
-<a href="https://twitter.com/MostafaAns29520" target="_blank">Twitter</a>
+<a href="https://www.linkedin.com/in/mimo-28a832288/" target="_blank">Linkedin</a>
 <a href="https://hackerone.com/mimo10" target="_blank">hackerone</a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
